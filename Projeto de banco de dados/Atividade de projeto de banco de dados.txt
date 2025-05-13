@@ -1,4 +1,4 @@
-Poderia me mostrar o código para fazer consultas em SQL, que retorne um relatório contendo:
+
 -nome da loja e gerente.
 -nome e sobrenome do cliente.
 -nome do produto e sua categoria.
